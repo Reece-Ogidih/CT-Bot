@@ -25,4 +25,4 @@ User Notifications: Sends alerts on significant changes in portfolio value, exec
 Front-End Interface: Offers a simple front-end dashboard where clients can view their portfolio, track performance, and see recent trade activity.
 
 ## Notes
-CT-Bot is still an ongoing project! I aim to have a completed project by the end of summer 2025!
+CT-Bot is still an ongoing project! I aim to have a completed project by the end of 2025!
